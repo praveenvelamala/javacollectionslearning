@@ -35,7 +35,6 @@ public class CollectionsSorting {
 				return arg0.getId()-arg1.getId();
 				
 			}
-			
 		
 		}  );
 		
