@@ -22,6 +22,10 @@ public class HashTableAndHashMap
         } 
   
         //----------------hashmap-------------------------------- 
+        
+        //Adding a comment
+        
+        
         HashMap<Integer,String> hm=new HashMap<Integer,String>(); 
         hm.put(101," ajay"); 
         hm.put(101,"Vijay"); 
