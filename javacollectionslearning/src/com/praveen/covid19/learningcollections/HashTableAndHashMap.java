@@ -24,7 +24,7 @@ public class HashTableAndHashMap
         //----------------hashmap-------------------------------- 
         
         //Adding a comment
-        
+        //Adding it to new branch1.
         
         HashMap<Integer,String> hm=new HashMap<Integer,String>(); 
         hm.put(101," ajay"); 
